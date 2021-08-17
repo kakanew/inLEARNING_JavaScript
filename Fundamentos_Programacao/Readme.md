@@ -2,7 +2,7 @@
 
 # [in LEARNING](https://www.linkedin.com/learning/me)
 
-## [Fundamentos da Programação](https://www.linkedin.com/learning/fundamentos-da-programacao/o-if-na-pratica)
+## [Fundamentos da Programação](https://www.linkedin.com/learning/fundamentos-da-programacao/o-if-na-pratica) ☼ [Aulas](https://www.linkedin.com/learning/fundamentos-da-programacao)
 
 - [x] Os Básicos da Programação
 - [x] Sintaxe Fundamental
