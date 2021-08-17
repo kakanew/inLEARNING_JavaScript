@@ -1,4 +1,4 @@
-# ![inlearning](C:\Users\cassia\Documents\My Projects\inLEARNING\inLEARNING_JavaScript\inlearning.jpeg)
+# ![inlearning.jpeg](https://github.com/kakanew/inLEARNING_JavaScript/blob/master/inlearning.jpeg?raw=true)
 
 # [in LEARNING](https://www.linkedin.com/learning/me)
 
