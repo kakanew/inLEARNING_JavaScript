@@ -4,6 +4,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,node
 
 arquivos_de_exercicios_javascript_formacao_basica/
+arquivos_de_exercicios_fundamentos_programacao/
+07_Elementos_DOM/
+08_PROJETO_Digitacao_Rapida/
+09_Lacos_Repeticao/
+10_PROJETO_Imagens_Responsiva/
+11_Troubleshoting_Validacao_Minificacao/
 ### Node ###
 # Logs
 logs
