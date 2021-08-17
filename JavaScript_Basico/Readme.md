@@ -1,3 +1,5 @@
+# ![inlearning.jpeg](https://github.com/kakanew/inLEARNING_JavaScript/blob/master/inlearning.jpeg?raw=true)
+
 # [in LEARNING](https://www.linkedin.com/learning/me)
 
 ## [JavaScript: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico) ☼ [Aulas](https://www.linkedin.com/learning/javascript-formacao-basica)

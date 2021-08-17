@@ -2,7 +2,7 @@
 
 # [in LEARNING](https://www.linkedin.com/learning/me)
 
-- [ ] [Fundamentos da Programação](https://www.linkedin.com/learning/fundamentos-da-programacao/o-if-na-pratica)
+- [ ] [Fundamentos da Programação](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/Fundamentos_Programacao)
 - [ ] [JavaScript: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico)
 
 ### [in LEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
