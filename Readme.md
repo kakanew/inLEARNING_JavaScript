@@ -1,4 +1,4 @@
-# ![LinkedIn Learning](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWRuadjqwCxRvjGu8nfC3OnfKQBoNElTlZ7Q&usqp=CAU)
+# ![inlearning](C:\Users\cassia\Documents\My Projects\inLEARNING\inLEARNING_JavaScript\inlearning.jpeg)
 
 # [in LEARNING](https://www.linkedin.com/learning/me)
 
