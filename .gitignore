@@ -2,16 +2,17 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,node
-02_HTML
 03_Estrutura_Basica
 04_Formatando_Conteúdo
 05_Links
 06_Listas
 07_Tabelas
 08_Estilos
+Descubra_CSS
 arquivos_de_exercicios_javascript_formacao_basica
 arquivos_de_exercicios_fundamentos_programacao
 arquivos_de_exercicios_html_formacao_basica_update
+arquivos_de_exercicios_descubra_o_css
 ### Node ###
 # Logs
 logs

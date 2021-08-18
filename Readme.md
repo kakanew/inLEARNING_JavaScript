@@ -2,9 +2,10 @@
 
 # [in LEARNING](https://www.linkedin.com/learning/me)
 
-- [ ] [Fundamentos da Programação](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/Fundamentos_Programacao)
+- [x] [Fundamentos da Programação](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/Fundamentos_Programacao)
+- [x] [HTML: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico)
+- [ ] Descubra o CSS
 - [ ] [JavaScript: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico)
-- [ ] [HTML: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico)
 
 ### [in LEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
 
