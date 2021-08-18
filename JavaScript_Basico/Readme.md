@@ -11,7 +11,7 @@
 - [x] [Manipulando elementos no DOM](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico/05_Manipulando_DOM)
 - [x] Projeto: Crie um relógio analógico
 - [x] Manipulando elementos no DOM, Parte 2: eventos
-- [ ] Projeto: Teste o quão rápido você digita
+- [x] Projeto: Teste o quão rápido você digita
 - [ ] Laços de repetição
 - [ ] Projeto: Trabalhando com imagens de forma responsiva
 - [ ] Troubleshooting, validação e minificação
