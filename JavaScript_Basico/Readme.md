@@ -14,6 +14,6 @@
 - [x] Projeto: Teste o quão rápido você digita
 - [x] Laços de repetição
 - [x] Projeto: Trabalhando com imagens de forma responsiva
-- [ ] Troubleshooting, validação e minificação
+- [x] Troubleshooting, validação e minificação
 
 ### [inLEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
