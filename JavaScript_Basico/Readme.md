@@ -9,8 +9,8 @@
 - [x] [Manipulação de dados](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico/03_Manipulacao_Dados)
 - [x] [Funções e objetos](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico/04_Funcoes_Objetos)
 - [x] [Manipulando elementos no DOM](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico/05_Manipulando_DOM)
-- [ ] Projeto: Crie um relógio analógico
-- [ ] Manipulando elementos no DOM, Parte 2: eventos
+- [x] Projeto: Crie um relógio analógico
+- [x] Manipulando elementos no DOM, Parte 2: eventos
 - [ ] Projeto: Teste o quão rápido você digita
 - [ ] Laços de repetição
 - [ ] Projeto: Trabalhando com imagens de forma responsiva
