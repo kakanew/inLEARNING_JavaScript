@@ -13,7 +13,7 @@
 - [x] Manipulando elementos no DOM, Parte 2: eventos
 - [x] Projeto: Teste o quão rápido você digita
 - [x] Laços de repetição
-- [ ] Projeto: Trabalhando com imagens de forma responsiva
+- [x] Projeto: Trabalhando com imagens de forma responsiva
 - [ ] Troubleshooting, validação e minificação
 
 ### [inLEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
