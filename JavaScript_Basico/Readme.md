@@ -12,7 +12,7 @@
 - [x] Projeto: Crie um relógio analógico
 - [x] Manipulando elementos no DOM, Parte 2: eventos
 - [x] Projeto: Teste o quão rápido você digita
-- [ ] Laços de repetição
+- [x] Laços de repetição
 - [ ] Projeto: Trabalhando com imagens de forma responsiva
 - [ ] Troubleshooting, validação e minificação
 
