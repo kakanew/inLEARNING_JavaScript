@@ -2,9 +2,9 @@
 
 # [in LEARNING](https://www.linkedin.com/learning/me)
 
-## HTML: Formação Básica ☼ [Aulas](https://www.linkedin.com/learning/html-formacao-basica)
+## [HTML: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico) ☼ [Aulas](https://www.linkedin.com/learning/html-formacao-basica)
 
-- [ ] Introdução
+- [x] Introdução
 - [ ] O que é HTML
 - [ ] A estrutura básica do HTML
 - [ ] Formatando o conteúdo
