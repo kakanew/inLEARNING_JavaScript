@@ -8,13 +8,13 @@
 - [x] Sintaxe Fundamental
 - [x] Variáveis e Tipos de Dados
 - [x] Código Condicional
-- [ ] Código Modular
-- [ ] Iterações: Loops
-- [ ] Strings e Caracteres
-- [ ] Coleções de Dados
-- [ ] Estilos de Programação
-- [ ] Entradas e Saídas
-- [ ] Resolvendo Problemas
-- [ ] Orientação a Objetos
+- [x] Código Modular
+- [x] Iterações: Loops
+- [x] Strings e Caracteres
+- [x] Coleções de Dados
+- [x] Estilos de Programação
+- [x] Entradas e Saídas
+- [x] Resolvendo Problemas
+- [x] Orientação a Objetos
 - [ ] Tópicos Avançados
 - [ ] Explorando as Linguagens
