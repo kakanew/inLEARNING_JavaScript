@@ -9,9 +9,10 @@
 - [x] [A estrutura básica do HTML](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/02_HTML)
 - [x] [Formatando o conteúdo](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/03_Formatando_Conteudo)
 - [x] [Criando Links](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/04_Links)
-- [x] Criando Listas
+- [x] [Criando Listas](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/05_Listas)
 - [ ] Criando Tabelas
 - [ ] Controlando estilos
 - [ ] Scripting básico
 
 ### [inLEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
+
