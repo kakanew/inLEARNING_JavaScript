@@ -12,7 +12,7 @@
 - [x] [Criando Listas](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/05_Listas)
 - [x] [Criando Tabelas](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/06_Tabelas)
 - [x] [Controlando estilos](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/07_Estilos)
-- [x] Scripting básico
+- [x] [Scripting básico](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/08_Scripting)
 
 ### [inLEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
 
