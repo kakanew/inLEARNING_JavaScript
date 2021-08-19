@@ -4,8 +4,8 @@
 
 - [x] [Fundamentos da Programação](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/Fundamentos_Programacao)
 - [x] [HTML: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico)
-- [ ] Descubra o CSS
-- [ ] [JavaScript: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico)
+- [x] [Descubra o CSS](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/Descubra_CSS)
+- [x] [JavaScript: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico)
 
 ### [in LEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
 
