@@ -17,3 +17,4 @@
 - [x] [Troubleshooting, validação e minificação](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/JavaScript_Basico/11_Troubleshoting_Validacao_Minificacao)
 
 ### [inLEARNING_JavaScript](https://github.com/kakanew/inLEARNING_JavaScript)
+
