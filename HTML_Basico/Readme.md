@@ -5,10 +5,10 @@
 ## [HTML: Formação Básica](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico) ☼ [Aulas](https://www.linkedin.com/learning/html-formacao-basica)
 
 - [x] Introdução
-- [x] O que é HTML
-- [x] A estrutura básica do HTML
-- [x] Formatando o conteúdo
-- [ ] Criando Links
+- [x] [O que é HTML](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/01_Introducao)
+- [x] [A estrutura básica do HTML](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/02_HTML)
+- [x] [Formatando o conteúdo](https://github.com/kakanew/inLEARNING_JavaScript/tree/master/HTML_Basico/03_Formatando_Conteudo)
+- [x] Criando Links
 - [ ] Criando Listas
 - [ ] Criando Tabelas
 - [ ] Controlando estilos
